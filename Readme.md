@@ -15,7 +15,7 @@ Passionate about building efficient, scalable applications with modern technolog
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-E0234E?style=flat&logo=golang&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-E0234E?style=flat&logo=go&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
