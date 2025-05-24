@@ -45,6 +45,7 @@ Passionate about building efficient, scalable applications with modern technolog
 - Linux optimazion
 - Work with AI
 - Advanced TypeScript patterns
+- Golang ecosystem
 
 ## 🏆 Achievements
 
